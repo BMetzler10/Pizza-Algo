@@ -1,2 +1,2 @@
-Step 1: order the Pizza
-Step 2: Wait for the delivery 
+1. Decide which business to order from 
+2. Decide which type of Pizza to order
