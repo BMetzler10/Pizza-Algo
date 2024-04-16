@@ -1,2 +1,4 @@
-1. Decide which business to order from 
-2. Decide which type of Pizza to order
+Step 1: Choose the Pizza place 
+Step 2: Choose your Pizza
+Step 2a. Choose your toppings
+Step 3. Order and enjoy! 
